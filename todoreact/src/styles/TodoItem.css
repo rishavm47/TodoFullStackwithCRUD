@@ -1,0 +1,5 @@
+li { background: '';
+    flex-direction: row;
+    display: flex;
+ }
+li:nth-child(odd) { background: #c591f9; }
